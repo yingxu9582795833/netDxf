@@ -40,7 +40,7 @@ Well, at the moment they are just tests for the work in progress.
 * .NET Framework 4.5. netDxf only references the NET libraries System.dll and System.Drawing.dll
 ## Compiling
 To compile the source code you will need Visual Studio 2015.
-## Development Status 
+## Development Status rtr
 See [changelog.txt](https://github.com/haplokuon/netDxf/blob/master/doc/Changelog.txt) or the [wiki page](https://github.com/haplokuon/netDxf/wiki) for information on the latest changes.
 ## Supported entities
 * 3dFace
